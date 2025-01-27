@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'social_django',
     'django_extensions',
+    'images.apps.ImagesConfig',
     # 'social_core.backends.facebook.FacebookOAuth2',
 
 ]
